@@ -1,7 +1,7 @@
 \ProvidesClass{resume}[ownedcv]
-\LoadClass[11pt, a4paper]{article}
+\LoadClass[10pt, a4paper]{article}
 
-\usepackage[left=0.5in, top=0.5in, right=0.5in, bottom=0.5in]{geometry} % Márgenes de página
+\usepackage[left=0.4in, top=0.4in, right=0.4in, bottom=0.4in]{geometry} % Márgenes de página
 \usepackage[utf8]{inputenc} % Compatibilidad de texto entre OS
 \usepackage[T1]{fontenc} % Fuente de códigos
 \usepackage[spanish]{babel} % Compatibilidad de idioma
@@ -18,6 +18,8 @@
 \usepackage[hidelinks]{hyperref} % Hiperreferencias
 \usepackage{multicol} % Uso de múltiples columnas
 \usepackage{float} % Posicionamiento exacto de flotantes
+\usepackage{tabularx} % Tablas personalizadas
+\usepackage{enumitem} % Listas personalizadas
 \pagestyle{empty} % Eliminar numeración de páginas
 \hypersetup{
 	colorlinks=false,
@@ -45,4 +47,3 @@
 \definecolor{naranja}{RGB}{225,168,0}
 \definecolor{amarillo}{RGB}{255,200,0}
 \definecolor{plomo}{RGB}{134,133,137}
-
