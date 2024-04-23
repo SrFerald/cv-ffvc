@@ -1,2 +1,5 @@
 # CV-FFVC
-Desarrollo de CV profesional
+
+Presentación de CV profesional
+- [CV - Francisco Valdivia Catata](./logs/resume.pdf)
+- [Documentación de CV](./pdfs/)
