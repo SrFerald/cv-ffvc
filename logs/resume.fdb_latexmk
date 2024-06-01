@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1717210917.89921 "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.pdf" "resume" 1717210918.63078 0
-  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.aux" 1717210918.53589 324 15225c1e4c578f29089c1849f8b2e87e "pdflatex"
-  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.out" 1717210918.38139 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" 1717210916.52796 8473 e44f008b837f75c2ce9c3def093c684b ""
+["pdflatex"] 1717212082.13295 "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.pdf" "resume" 1717212082.92011 0
+  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.aux" 1717212082.8211 324 15225c1e4c578f29089c1849f8b2e87e "pdflatex"
+  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.out" 1717212082.66086 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" 1717212036.56883 8686 47c40bd5ee3bcb65cae717691ad7d09e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -189,8 +189,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710998504.24493 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710998400 8221427 f05b46a2e2a5214a1e021cf2c9a1e92f ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "resume.cls" 1717208251.60617 1853 0a692778d26d0f03402090376a54ecae ""
-  "resume.tex" 1717210916.52796 8473 e44f008b837f75c2ce9c3def093c684b ""
+  "resume.cls" 1717212078.56554 1853 e115b14ffdba662216e2bfb61ba43363 ""
+  "resume.tex" 1717212036.56883 8686 47c40bd5ee3bcb65cae717691ad7d09e ""
   (generated)
   "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.aux"
   "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.log"
