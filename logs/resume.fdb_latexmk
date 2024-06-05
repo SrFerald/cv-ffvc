@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1717572378.36285 "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.pdf" "resume" 1717572379.09077 0
-  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.aux" 1717572378.99752 324 15225c1e4c578f29089c1849f8b2e87e "pdflatex"
-  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.out" 1717572378.84309 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" 1717572377.50357 8822 82c3836de9fe5fb91515089330516d24 ""
+["pdflatex"] 1717572919.69775 "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.pdf" "resume" 1717572920.481 0
+  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.aux" 1717572920.38136 324 15225c1e4c578f29089c1849f8b2e87e "pdflatex"
+  "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.out" 1717572920.22049 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "/Users/ffvc/Documents/Working/cv-ffvc/scripts/resume.tex" 1717572919.56738 8822 30153e523c7edc6afcadc20dfa26af2f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -190,7 +190,7 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710998400 8221427 f05b46a2e2a5214a1e021cf2c9a1e92f ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "resume.cls" 1717560573.75674 1853 0a692778d26d0f03402090376a54ecae ""
-  "resume.tex" 1717572377.50357 8822 82c3836de9fe5fb91515089330516d24 ""
+  "resume.tex" 1717572919.56738 8822 30153e523c7edc6afcadc20dfa26af2f ""
   (generated)
   "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.aux"
   "/Users/ffvc/Documents/Working/cv-ffvc/logs/resume.log"
